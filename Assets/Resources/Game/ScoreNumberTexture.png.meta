@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 01c8cd5af1f7a564b8600d751f0481df
+timeCreated: 1447252385
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ScoreNumberTexture_0
+    21300002: ScoreNumberTexture_1
+    21300004: ScoreNumberTexture_2
+    21300006: ScoreNumberTexture_3
+    21300008: ScoreNumberTexture_4
+    21300010: ScoreNumberTexture_5
+    21300012: ScoreNumberTexture_6
+    21300014: ScoreNumberTexture_7
+    21300016: ScoreNumberTexture_8
+    21300018: ScoreNumberTexture_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ScoreNumberTexture_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreNumberTexture_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 18
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
